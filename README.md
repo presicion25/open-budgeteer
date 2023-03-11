@@ -109,6 +109,13 @@ Step 9. Choose an account name. Click Save.
 <br />
 
 
+Step 10. Import transactions from your Online Banking account. OpenBudgeteer supports CSV files.
+
+<p>
+<img src="https://imgur.com/CJiPwKU.png alt="Open Budgeteer"/>
+</p>
+<br />
+<br />
 
 
 
