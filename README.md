@@ -50,7 +50,6 @@ Step 4. Once you click on User-defined script, a new window will open. Follow th
 <br />
 
 4e. Task Settings: Check “Send run details by email“, add your email then copy paste the code below in the Run command area. After that, click OK.
-<p>
 
 
 docker run -d --name=openbudgeteer \
@@ -60,7 +59,7 @@ docker run -d --name=openbudgeteer \
 --restart=always \
 axelander/openbudgeteer
 
-
+<p>
 <img src="https://imgur.com/Bd3aYvr.png alt="Open Budgeteer"/>
 </p>
 <br />
