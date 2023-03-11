@@ -3,7 +3,7 @@
 </p>
 <br />
 
-In this short tutorial, I will show you how to install Open Budgeteer on your Synology NAS using Docker. OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle. It can be used for any typ of financial planning. This tutorial assumes you have Docker installed on your Synology NAS already and it is running.
+In this short tutorial, I will show you how to install Open Budgeteer on your Synology NAS using Docker. OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle. It can be used for any type of financial planning. This tutorial assumes you have Docker installed on your Synology NAS already and it is running.
 <br />
 <br />
 
