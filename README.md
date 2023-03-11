@@ -33,9 +33,12 @@ Step 3. Go to Control Panel / Task Scheduler / Create / Scheduled Task / User-de
 
 
 Step 4. Once you click on User-defined script, a new window will open. Follow the instructions below:
-    4b. General: In the Task field type in Install OpenBudgeteer. Uncheck the “Enabled” option. Select root User.
-    4c. Schedule: Select Run on the following date then select “Do not repeat“.
-    4e. Task Settings: Check “Send run details by email“, add your email then copy paste the code below in the Run command area. After that, click OK.
+<br/>
+4b. General: In the Task field type in Install OpenBudgeteer. Uncheck the “Enabled” option. Select root User.
+<br />
+4c. Schedule: Select Run on the following date then select “Do not repeat“.
+<br />
+4e. Task Settings: Check “Send run details by email“, add your email then copy paste the code below in the Run command area. After that, click OK.
     
     
 docker run -d --name=openbudgeteer \
