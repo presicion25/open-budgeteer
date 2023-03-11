@@ -127,7 +127,8 @@ Here is an example after you have created an account and imported transctions:
 <br />
 
 
-Thank You for looking. For more content, visit my website 
+<h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
+
 
 
 
