@@ -118,9 +118,16 @@ Step 10. Import transactions from your Online Banking account. OpenBudgeteer sup
 <br />
 
 
+Here is an example after you have created an account and imported transctions:
+
+<p>
+<img src="https://imgur.com/MnVZ67G.png alt="Open Budgeteer"/>
+</p>
+<br />
+<br />
 
 
-
+Thank You for looking. For more content, visit my website 
 
 
 
