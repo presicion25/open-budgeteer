@@ -12,3 +12,13 @@ Step 1. Install or Run Docker from the Package Center
 <p>
 <img src="https://imgur.com/pVTroSS.png alt="Open Budgeteer"/>
 </p>
+<br />
+<br />
+
+Sep 2. Go to File Station and open the docker folder. Inside the docker folder, create one new folder and name it openbudgeteer. Follow the instructions in the image below. Use lowercase letters only.
+
+<p>
+<img src="https://imgur.com/TkvdFWs.png alt="Open Budgeteer"/>
+</p>
+<br />
+<br />
