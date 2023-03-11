@@ -49,10 +49,6 @@ docker run -d --name=openbudgeteer \
 axelander/openbudgeteer
 
 <p>
-<img src="https://imgur.com/icktria.png alt="Open Budgeteer"/>
-</p>
-<br />
-<p>
 <img src="https://imgur.com/PPVAsnD.png alt="Open Budgeteer"/>
 </p>
 <br />
