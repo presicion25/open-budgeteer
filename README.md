@@ -7,6 +7,7 @@ In this short tutorial, I will show you how to install Open Budgeteer on your Sy
 
 
 Step 1.
+<br />
 <p>
 <img src="https://imgur.com/pVTroSS.png alt="Open Budgeteer"/>
 </p>
