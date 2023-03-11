@@ -35,6 +35,7 @@ Step 3. Go to Control Panel / Task Scheduler / Create / Scheduled Task / User-de
 Step 4. Once you click on User-defined script, a new window will open. Follow the instructions below:
 <br/>
 <br />
+<br />
     
 
 4b. General: In the Task field type in Install OpenBudgeteer. Uncheck the “Enabled” option. Select root User.
@@ -42,11 +43,13 @@ Step 4. Once you click on User-defined script, a new window will open. Follow th
 <img src="https://imgur.com/PPVAsnD.png alt="Open Budgeteer"/>
 </p>
 <br />
+<br />
 
 4c. Schedule: Select Run on the following date then select “Do not repeat“.
 <p>
 <img src="https://imgur.com/TCoOvXs.png alt="Open Budgeteer"/>
 </p>
+<br />
 <br />
 
 4e. Task Settings: Check “Send run details by email“, add your email then copy paste the code below in the Run command area. After that, click OK.
@@ -63,12 +66,14 @@ axelander/openbudgeteer
 <img src="https://imgur.com/Bd3aYvr.png alt="Open Budgeteer"/>
 </p>
 <br />
+<br />
 
 Step 5. After you click OK a new warning pop up window will open. Click OK.
 
 <p>
 <img src="https://imgur.com/3op4m7H.png alt="Open Budgeteer"/>
 </p>
+<br />
 <br />
 
 Step 6. After you click OK, select your “Install OpenBudgeteer” Task then click the “Run” tab. You will be asked to run Install OpenBudgeteer – click Yes. Follow the instructions in the image below.
@@ -77,15 +82,31 @@ Step 6. After you click OK, select your “Install OpenBudgeteer” Task then cl
 <img src="https://imgur.com/ohjz8xD.png alt="Open Budgeteer"/>
 </p>
 <br />
+<br />
 
-
-Step 7. The installation process can take up to a few seconds/minutes. It will depend on your Internet speed connection. Now open your browser and type in http://Your Synology ip address:6100 
+Step 7. The installation process can take up to a few seconds/minutes. It will depend on your Internet speed connection. Now open your browser and type in http://Your-Synology-ip-address:6100 
 
 <p>
 <img src="https://imgur.com/B3Oghy3.png alt="Open Budgeteer"/>
 </p>
 <br />
+<br />
 
+Step 8. Click New Account
+
+<p>
+<img src="https://imgur.com/aP93hAv.png alt="Open Budgeteer"/>
+</p>
+<br />
+<br />
+
+Step 9. Choose an account name. Click Save.
+
+<p>
+<img src="https://imgur.com/ajsyhOZ.png alt="Open Budgeteer"/>
+</p>
+<br />
+<br />
 
 
 
